@@ -177,11 +177,10 @@ Clustering jerárquico bottom-up que minimiza la varianza intra-cluster en cada 
 
 ### Opción 1: Google Colab (recomendado)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tatic2003/pokemon-clustering/blob/main/notebook/AprendizajeNoSupervisado_TP_Final.ipynb)
 
-1. Abrir el badge de Colab
-2. Conectar cuenta de Kaggle en **Secrets** (`KAGGLE_USERNAME` y `KAGGLE_KEY`)
-3. **Runtime → Run all**
+1. Entrar en github pages
+2. Click en el botón 'Ver notebook' 
+3. Run the notebook
 
 ### Opción 2: Local
 
