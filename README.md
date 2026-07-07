@@ -179,7 +179,7 @@ Clustering jerárquico bottom-up que minimiza la varianza intra-cluster en cada 
 
 
 1. Entrar en github pages
-2. Click en el botón 'Ver notebook' 
+2. Click en el botón 'Abrir en colab' 
 3. Run the notebook
 
 ### Opción 2: Local
