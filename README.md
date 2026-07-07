@@ -11,7 +11,7 @@
 
 ---
 
-## 📋 Descripción
+##Descripción
 
 ¿Puede un algoritmo de Machine Learning descubrir qué Pokémon son legendarios **sin que nadie se lo diga**?
 
@@ -19,7 +19,7 @@ Este proyecto aplica técnicas de **aprendizaje no supervisado** al *Ultimate Po
 
 ---
 
-## 🗂️ Estructura del Repositorio
+##Estructura del Repositorio
 
 ```
 pokemon-clustering/
@@ -80,7 +80,7 @@ Las 18 features numéricas se agrupan en tres categorías:
 
 ---
 
-## 🔧 Metodología
+##Metodología
 
 ### 1. Preprocesamiento
 
@@ -119,7 +119,7 @@ Clustering jerárquico bottom-up que minimiza la varianza intra-cluster en cada 
 
 ---
 
-## 📈 Resultados
+## Resultados
 
 ### Métricas Internas
 
@@ -155,7 +155,7 @@ Clustering jerárquico bottom-up que minimiza la varianza intra-cluster en cada 
 
 ---
 
-## 🖼️ Figuras
+## Figuras
 
 <table>
 <tr>
@@ -173,7 +173,7 @@ Clustering jerárquico bottom-up que minimiza la varianza intra-cluster en cada 
 
 ---
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 ### Opción 1: Google Colab (recomendado)
 
@@ -199,7 +199,7 @@ jupyter notebook notebook/AprendizajeNoSupervisado_TP_Final.ipynb
 
 ---
 
-## 📦 Dependencias
+## Dependencias
 
 ```txt
 kagglehub>=0.2.0
@@ -220,7 +220,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📁 Entregables
+## Entregables
 
 | Archivo | Descripción |
 |---|---|
@@ -232,7 +232,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📚 Referencias
+## Referencias
 
 1. darkmatternet. (2025). *Ultimate Pokémon Dataset 2025*. Kaggle. https://www.kaggle.com/datasets/darkmatternet/ultimate-pokmon-dataset-2025
 2. Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. *JMLR*, 12, 2825–2830.
@@ -243,7 +243,7 @@ pip install -r requirements.txt
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 **Tatiana Caballero**
 Maestría en Inteligencia Artificial · FIUNA
