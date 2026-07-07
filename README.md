@@ -11,7 +11,7 @@
 
 ---
 
-##Descripción
+## Descripción
 
 ¿Puede un algoritmo de Machine Learning descubrir qué Pokémon son legendarios **sin que nadie se lo diga**?
 
@@ -19,7 +19,7 @@ Este proyecto aplica técnicas de **aprendizaje no supervisado** al *Ultimate Po
 
 ---
 
-##Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 pokemon-clustering/
@@ -49,7 +49,7 @@ pokemon-clustering/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 | Atributo | Valor |
 |---|---|
@@ -80,7 +80,7 @@ Las 18 features numéricas se agrupan en tres categorías:
 
 ---
 
-##Metodología
+## Metodología
 
 ### 1. Preprocesamiento
 
