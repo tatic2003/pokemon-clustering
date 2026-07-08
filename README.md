@@ -182,19 +182,7 @@ Clustering jerárquico bottom-up que minimiza la varianza intra-cluster en cada 
 2. Click en el botón 'Abrir en colab' 
 3. Run the notebook
 
-### Opción 2: Local
 
-```bash
-# Clonar el repositorio
-git clone https://github.com/tatic2003/pokemon-clustering.git
-cd pokemon-clustering
-
-# Instalar dependencias
-pip install -r requirements.txt
-
-# Abrir el notebook
-jupyter notebook notebook/AprendizajeNoSupervisado_TP_Final.ipynb
-```
 
 ---
 
